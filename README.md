@@ -6,7 +6,7 @@ I encourage you to check projects I contribute to pinned below :arrow_down:
 
 [Check out my blog!](https://karo-fox.github.io/)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=karo-fox&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=karofox&show_icons=true&theme=tokyonight)
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karo-fox&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) -->
 
 [![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/65df43d28947e435e747c97e?variant=dark)](https://roadmap.sh)
