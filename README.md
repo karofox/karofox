@@ -5,7 +5,7 @@ I am **karo-fox** and I am passionate about coding since 2019.
 I encourage you to check projects I contribute to pinned below :arrow_down:
 
 <!-- [Check out my blog!](https://karofox.github.io/) -->
-
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=karofox)](https://github.com/anuraghazra/github-readme-stats)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=karofox&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karofox&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
